@@ -1,0 +1,17 @@
+header {
+    width: 100%;
+    display: flex;
+    gap: 190px;
+    flex-wrap: wrap;
+    height: 60px;
+    input {
+        width: 575px;
+        height: 32px;
+        border: 1px solid rgb(66,66,66);
+        border-radius: 10px 0px 0px 10px;
+        padding: 10px;
+    }
+    button{
+        border-radius: 0px 10px 10px 0px;
+    }
+}
